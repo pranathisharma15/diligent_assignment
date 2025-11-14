@@ -1,0 +1,51 @@
+user_id,full_name,email,phone,created_at,country,gender,age,is_prime_member
+35466016-bece-4686-8031-f405c8aab45f,Patrick Sanchez,jillrhodes@example.net,+1-9600133890,2025-03-25T19:30:57,Canada,Female,65,True
+f9ab9460-35f3-4be3-bbbf-067ec5b42dfb,Kevin Pacheco,blakeerik@example.com,+1-4235116155,2024-10-06T00:09:09,Germany,Male,65,True
+3b44d0e4-7089-4e7f-ac7b-248b57b0d5bf,Calvin Nielsen,arnoldmaria@example.net,+1-9310341316,2025-06-03T22:55:22,France,Female,55,True
+a0aa90de-f93b-4f0f-9100-77c50e48b411,Daniel Adams,lynchgeorge@example.net,+1-2764835030,2024-03-20T11:49:42,United States,Female,31,True
+02a98e46-5202-4563-8ee0-14b4c4ea0662,Tommy Walter,jason76@example.net,+1-2423884969,2024-01-05T13:34:53,Japan,Female,53,True
+fd87e653-df63-461c-b915-85b674807e90,Ann Williams,hernandezernest@example.net,+1-9166978480,2024-03-01T14:25:37,France,Prefer not to say,32,True
+806538bd-9499-4928-be30-84517e4e86e3,Ashley Graham,usmith@example.net,+1-8281489325,2025-07-04T03:27:18,Australia,Female,66,False
+f2e17b43-b82f-4959-8630-58b21c1d99ac,Fred Smith,natasha43@example.org,+1-9117182278,2025-10-28T13:41:46,Singapore,Non-binary,35,True
+2263fc04-f324-4610-b88e-68b01834cb27,Tracey Hickman,jenniferross@example.net,+1-7871331509,2025-09-22T19:04:01,India,Female,23,True
+8a7dbd73-ddd2-4541-b896-cddca98570e7,Michael Brown,whiteheadmichele@example.org,+1-4738299737,2024-05-04T04:53:09,India,Non-binary,56,True
+32f4783d-f97a-48fd-aac7-ee68c9b0fa4e,Heather Jenkins,nuneztracey@example.org,+1-6513338726,2024-01-29T10:39:27,United States,Prefer not to say,52,True
+c7ece564-6651-437d-8f17-f1d2dc33c18e,Angela Morton,williamsyvette@example.org,+1-3267736026,2024-05-27T04:27:57,Singapore,Female,53,True
+2a40e721-30d9-4519-9c20-ba0574b3e79e,Jordan Henderson,smoore@example.org,+1-9805009788,2025-11-03T19:17:06,Japan,Non-binary,54,True
+a79c39ef-ca83-4a7a-8292-c2452aebb20d,Andrea Jones,richarddavid@example.net,+1-9909169985,2024-01-16T09:07:20,Canada,Female,60,True
+e468f7ac-e306-4ca7-bc1f-cbedb6ccee66,Carlos Brewer,wstewart@example.org,+1-7991183842,2024-05-18T13:09:54,Australia,Female,32,False
+0d8cbb19-c8c7-45f2-b06a-728e9ab9a993,Jeffrey Daniels,cheryl80@example.net,+1-1241182449,2024-08-28T04:13:14,Singapore,Non-binary,47,True
+0446f465-854c-402f-86d1-d8d54ce1191d,Deborah Freeman,davisrodney@example.com,+1-0524278680,2025-05-02T03:36:42,India,Male,41,True
+175147b9-bb31-4c38-8e87-50c2905cc983,Jacob Tran,tanderson@example.com,+1-5331586923,2025-01-11T22:16:35,Australia,Female,56,True
+c570534d-a997-48d9-b583-c3ae0f447e90,Tim Patton,vpham@example.org,+1-2160733754,2023-12-04T09:47:15,France,Male,28,True
+83c4c029-cde1-4a9b-9e0d-610482d79ce4,Garrett Lin,michael86@example.net,+1-0142940196,2025-04-10T19:38:48,Australia,Male,61,True
+c5a4be56-ed69-4752-b94d-d33649890774,Mrs. Stephanie Lee,fletcheraaron@example.net,+1-5615951484,2025-02-28T00:17:18,United States,Male,70,True
+4c64b3f6-87ac-475d-9eff-eb8caf1f596a,Cameron Fisher,lbyrd@example.net,+1-6804436995,2025-05-09T16:38:35,India,Prefer not to say,35,True
+fbcb54de-6e41-4975-9d11-8df977ff0dd1,John Santana,donnacampbell@example.net,+1-1343320037,2025-04-22T22:20:27,Japan,Non-binary,31,False
+5a55f8e0-7baa-4e41-94b2-fe3d02e91f6e,Laura Higgins,psnyder@example.org,+1-1632870831,2024-10-02T01:28:36,Singapore,Prefer not to say,27,True
+442a11c5-8eda-4e4d-8efd-3402071f8e36,Kristin Stewart,usalazar@example.net,+1-8727743487,2025-04-16T16:17:14,Germany,Non-binary,65,True
+f69798b5-18aa-49c6-9eab-ed66db30732f,Cynthia Rogers,taylorjesse@example.net,+1-3166587603,2024-01-14T08:07:50,Japan,Prefer not to say,41,True
+407cdfdd-5ca2-488d-8779-13e3c225ac5f,Spencer Johnston,wsmith@example.com,+1-6889373467,2025-05-08T09:13:28,United Kingdom,Prefer not to say,23,False
+6ae835cc-0af3-455c-aaf3-4a11d0dab923,Jennifer Martin,ncalhoun@example.net,+1-6990162720,2025-04-17T16:26:39,Canada,Male,58,True
+aa206aa0-90f8-4af6-94bd-4c00582a3dc5,George Hobbs,karen64@example.org,+1-0805310033,2024-04-27T13:22:12,Singapore,Female,42,True
+7f9e3b3a-b07c-4305-86a8-5d7ef20f3d2e,Michael Elliott,stevenscott@example.com,+1-9912419049,2024-05-18T10:32:11,Brazil,Non-binary,53,False
+0552e302-7d04-4636-8eed-cfd7fc7abf26,Sandra Sanchez,melissa91@example.net,+1-5865185067,2024-01-13T04:24:48,United States,Female,61,False
+ede6aaff-8a25-4880-bc40-fac3e4d8da26,Julia Hernandez,jessicasheppard@example.com,+1-7694531473,2025-03-22T19:54:05,Australia,Non-binary,25,True
+ed6cc9d7-5df7-411b-affb-369a54de8953,Allen Rosales,tonykelly@example.com,+1-4948083136,2025-04-17T03:40:20,United Kingdom,Prefer not to say,18,False
+d13da118-f196-4a09-a7c5-430ddfed6cc6,Michael West,davisjeffrey@example.net,+1-4957885685,2025-05-04T13:37:39,Australia,Male,50,False
+89469f59-db88-408e-a6d9-6b54002c0023,Bryan Lee,newtonstephanie@example.net,+1-3374989413,2024-07-10T07:36:11,Australia,Male,27,True
+9beb89df-5e51-4a74-9898-68c01d0c3a40,Michael Martinez,mccannangela@example.net,+1-7109477752,2024-04-02T12:46:09,United Kingdom,Female,56,True
+95835daf-143e-4a0c-83f4-eceb7ef5181c,Jennifer Jones,hernandezlisa@example.com,+1-3186999386,2024-02-11T18:28:29,United States,Female,41,False
+02a27e33-6d37-4de6-8b45-25b95ecc47c5,Jessica Carroll,lynchjody@example.org,+1-4123281206,2025-09-13T06:24:18,Australia,Male,21,True
+6b1ecff2-5b62-4dbd-a980-aa282b12856b,Dwayne Campbell,ojones@example.com,+1-6183242102,2024-06-28T09:12:11,Japan,Female,23,False
+82c7c807-6d0c-4a0f-a7a3-39d22bd58952,Caleb Barker,gbender@example.net,+1-7190659401,2025-10-30T16:00:35,Canada,Male,26,False
+25df6efd-c7bf-401b-a082-4cbc5154a06b,Miss Debra Williams PhD,cstone@example.com,+1-9671756551,2023-12-01T06:27:34,France,Male,34,True
+31ed20b4-8d09-4ca7-a1c8-723d41b326fb,Matthew Morales DDS,gibsonleonard@example.com,+1-6808760385,2025-05-06T22:45:03,Japan,Prefer not to say,31,False
+4be3e8ae-dd07-46a6-9960-5b6bbd4cb75a,Derek Anderson,samuel71@example.org,+1-2480861317,2025-06-27T10:59:12,Germany,Non-binary,43,False
+2908a1b1-29c4-490c-8af5-d0b8333c13b4,Katrina Hill,pbaird@example.com,+1-6398214658,2025-11-08T13:38:58,India,Prefer not to say,51,True
+03fb5911-4e47-4472-8d20-f90efc988285,Kevin Duarte,cgrimes@example.net,+1-5588675339,2025-06-01T02:18:27,Germany,Male,22,True
+d92f3937-0d5f-4e06-9437-1ede588d9e42,John Mcintyre,qhughes@example.net,+1-7028951718,2023-12-19T01:22:51,Japan,Male,55,True
+c0ea442b-c745-43a9-9baf-3e6de0af5efc,Tracy Jones,matthew61@example.com,+1-5780913431,2024-09-28T14:17:30,Canada,Female,32,True
+48a7a7e5-5376-4b07-ab0e-c2590d00eb53,Elijah Johnson,laura45@example.com,+1-2386922219,2024-10-24T18:30:14,United States,Non-binary,22,True
+44a28461-27a5-4479-b2a2-6080bddd311a,Briana Murray,steve07@example.com,+1-1759464743,2024-12-05T16:55:34,Australia,Prefer not to say,31,True
+3168137d-6315-4c84-9dc3-1a4916ed4030,Ian Phillips,andrew64@example.org,+1-9743953394,2024-05-17T09:34:16,Japan,Prefer not to say,33,False
